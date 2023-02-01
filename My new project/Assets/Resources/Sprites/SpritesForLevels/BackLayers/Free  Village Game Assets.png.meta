@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: b8b2052710f1d94499b45a88f9d35a1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7326255427064928452
+    second: Free  Village Game Assets_1
+  - first:
+      213: 283511407209140241
+    second: Free  Village Game Assets_4
+  - first:
+      213: -5781523279143516114
+    second: Free  Village Game Assets_5
+  - first:
+      213: 8625592275696481051
+    second: Free  Village Game Assets_8
+  - first:
+      213: 9085175731145473585
+    second: Free  Village Game Assets_9
+  - first:
+      213: -5344995097944018203
+    second: Free  Village Game Assets_10
+  - first:
+      213: -3392674275330907225
+    second: Free  Village Game Assets_12
+  - first:
+      213: -3588284166423501370
+    second: Free  Village Game Assets_13
+  - first:
+      213: 1409151980493256199
+    second: Free  Village Game Assets_14
+  - first:
+      213: 1927522130879649782
+    second: Free  Village Game Assets_15
+  - first:
+      213: -818510621886213769
+    second: Free  Village Game Assets_16
+  - first:
+      213: 1154704203802859649
+    second: Free  Village Game Assets_17
+  - first:
+      213: 889145222137530461
+    second: Free  Village Game Assets_18
+  - first:
+      213: -4872728630232396972
+    second: Free  Village Game Assets_19
+  - first:
+      213: 185132345634080420
+    second: Free  Village Game Assets_20
+  - first:
+      213: 5186273438778258272
+    second: Free  Village Game Assets_22
+  - first:
+      213: -285333914802617510
+    second: Free  Village Game Assets_23
+  - first:
+      213: 920517228257204507
+    second: Free  Village Game Assets_6
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free  Village Game Assets_1
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 1112
+        width: 421
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3764085189e35a90800000000000000
+      internalID: -7326255427064928452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free  Village Game Assets_4
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 911
+        width: 640
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110d87c6f1c3fe300800000000000000
+      internalID: 283511407209140241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free  Village Game Assets_8
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 608
+        width: 164
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13fd32797244b770800000000000000
+      internalID: 8625592275696481051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free  Village Game Assets_9
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 623
+        width: 17
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13efce03137051e70800000000000000
+      internalID: 9085175731145473585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free  Village Game Assets_10
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 610
+        width: 69
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2b7d40743c2d5b0800000000000000
+      internalID: -5344995097944018203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free  Village Game Assets_12
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 593
+        width: 219
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3ab44c8bccae0d0800000000000000
+      internalID: -3392674275330907225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free  Village Game Assets_13
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 606
+        width: 155
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c52b2bef8ad33ec0800000000000000
+      internalID: -3588284166423501370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free  Village Game Assets_16
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 426
+        width: 88
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77196911de014a4f0800000000000000
+      internalID: -818510621886213769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free  Village Game Assets_17
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 445
+        width: 174
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188d1500b55560010800000000000000
+      internalID: 1154704203802859649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free  Village Game Assets_19
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 360
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b4f1ca027906cb0800000000000000
+      internalID: -4872728630232396972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free  Village Game Assets_22
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 281
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063fb6ae63859f740800000000000000
+      internalID: 5186273438778258272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free  Village Game Assets_23
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 191
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5381d5f05a4a0cf0800000000000000
+      internalID: -285333914802617510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free  Village Game Assets_6
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 610
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19d5efba8556cc00800000000000000
+      internalID: 920517228257204507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,281 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.43f1 (75bff06b76bf) revision 7716848'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19042) 64bit Professional' Language: 'ru' Physical Memory: 8183 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+E:\GameDev\2020.3.43f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/ForUnity/My new project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49987
+Successfully changed project path to: E:/ForUnity/My new project
+E:/ForUnity/My new project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 90.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.43f1 (75bff06b76bf)
+[Subsystems] Discovering subsystems at path E:/GameDev/2020.3.43f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/ForUnity/My new project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   
+    VRAM:     2007 MB
+    Driver:   30.0.14.7404
+Initialize mono
+Mono path[0] = 'E:/GameDev/2020.3.43f1/Editor/Data/Managed'
+Mono path[1] = 'E:/GameDev/2020.3.43f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/GameDev/2020.3.43f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56980
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/GameDev/2020.3.43f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002096 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 90.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.233 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1234ms)
+		BeginReloadAssembly (154ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (924ms)
+			LoadAssemblies (152ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (292ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (69ms)
+			SetupLoadedEditorAssemblies (356ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (91ms)
+				BeforeProcessingInitializeOnLoad (31ms)
+				ProcessInitializeOnLoadAttributes (159ms)
+				ProcessInitializeOnLoadMethodAttributes (65ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003373 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 99.08 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.335 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2336ms)
+		BeginReloadAssembly (272ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (35ms)
+		EndReloadAssembly (1962ms)
+			LoadAssemblies (179ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (579ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (131ms)
+			SetupLoadedEditorAssemblies (861ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (99ms)
+				BeforeProcessingInitializeOnLoad (193ms)
+				ProcessInitializeOnLoadAttributes (509ms)
+				ProcessInitializeOnLoadMethodAttributes (46ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 1.37 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2361 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.4 MB.
+System memory in use after: 104.4 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 2797.
+Total: 10.901100 ms (FindLiveObjects: 0.577100 ms CreateObjectMapping: 0.186700 ms MarkObjects: 9.749700 ms  DeleteObjects: 0.384600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Resources/Animations/ScienceGuy
+  artifactKey: Guid(9a3de52a269441d489cdbcf0a23be30e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/ScienceGuy using Guid(9a3de52a269441d489cdbcf0a23be30e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76395a7cb99f15891603c8d50d79b079') in 0.012726 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.189034 seconds.
+  path: Assets/Resources/Animations/ScienceGuy/ScienceGuy_Idle.png
+  artifactKey: Guid(b55723e06b3d0f84c800540268c73980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/ScienceGuy/ScienceGuy_Idle.png using Guid(b55723e06b3d0f84c800540268c73980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd60ff02a025936730914b94f82b5e45d') in 0.172863 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.783446 seconds.
+  path: Assets/Resources/Animations/ScienceGuy/ScienceGuy_Run.png
+  artifactKey: Guid(8fe3c6cbbd03a694dadccbd7c48cce30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/ScienceGuy/ScienceGuy_Run.png using Guid(8fe3c6cbbd03a694dadccbd7c48cce30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46c8cd17f4cfbe81960b0ea26e3a46a9') in 0.031367 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.343398 seconds.
+  path: Assets/Resources/Animations/ScienceGuy/ScienceGuy_Jump.png
+  artifactKey: Guid(d828197a460a2f046bf74b88c1a57a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/ScienceGuy/ScienceGuy_Jump.png using Guid(d828197a460a2f046bf74b88c1a57a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46505e659e58c57dc9de64c1d6f3ea9e') in 0.024134 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.945518 seconds.
+  path: Assets/Resources/Animations/ScienceGuy/ScienceGuy_Idle.png
+  artifactKey: Guid(b55723e06b3d0f84c800540268c73980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/ScienceGuy/ScienceGuy_Idle.png using Guid(b55723e06b3d0f84c800540268c73980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00dee59cd6e71d82b516b03322c5f853') in 0.008293 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/Resources/Animations/ScienceGuy/ScienceGuy_Jump.png
+  artifactKey: Guid(d828197a460a2f046bf74b88c1a57a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/ScienceGuy/ScienceGuy_Jump.png using Guid(d828197a460a2f046bf74b88c1a57a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14eaccc88f16b7c5e113a224f9756cb3') in 0.008240 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000525 seconds.
+  path: Assets/Resources/Animations/ScienceGuy/ScienceGuy_Run.png
+  artifactKey: Guid(8fe3c6cbbd03a694dadccbd7c48cce30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/ScienceGuy/ScienceGuy_Run.png using Guid(8fe3c6cbbd03a694dadccbd7c48cce30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9592736e5286a8ddb698e7110d2ab027') in 0.012502 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.639307 seconds.
+  path: Assets/Resources/Animations/ScienceGuy/ScienceGuy_Run.png
+  artifactKey: Guid(8fe3c6cbbd03a694dadccbd7c48cce30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/ScienceGuy/ScienceGuy_Run.png using Guid(8fe3c6cbbd03a694dadccbd7c48cce30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40e320ee048420eb52ec981b7158fa7b') in 0.009036 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 48.315468 seconds.
+  path: Assets/Resources/Animations/ScienceGuy/ScienceGuy_Run.png
+  artifactKey: Guid(8fe3c6cbbd03a694dadccbd7c48cce30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/ScienceGuy/ScienceGuy_Run.png using Guid(8fe3c6cbbd03a694dadccbd7c48cce30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '127b95e35e7774e2144bfbb22f5811b0') in 0.037000 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.672138 seconds.
+  path: Assets/Resources/Animations/ScienceGuy/ScienceGuy_Jump.png
+  artifactKey: Guid(d828197a460a2f046bf74b88c1a57a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/ScienceGuy/ScienceGuy_Jump.png using Guid(d828197a460a2f046bf74b88c1a57a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2a69c9e4bc3bc8196db6563fa209ba6') in 0.008135 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 240.539335 seconds.
+  path: Assets/Resources/Animations/ScienceGuy/ScienceGuy_Jump.png
+  artifactKey: Guid(d828197a460a2f046bf74b88c1a57a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/ScienceGuy/ScienceGuy_Jump.png using Guid(d828197a460a2f046bf74b88c1a57a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6669b109c11cb3849875a0ec8bf46b3d') in 0.021537 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.644778 seconds.
+  path: Assets/Resources/Animations/ScienceGuy/ScienceGuy_Jump.png
+  artifactKey: Guid(d828197a460a2f046bf74b88c1a57a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/ScienceGuy/ScienceGuy_Jump.png using Guid(d828197a460a2f046bf74b88c1a57a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1493264c178cbef338589a815f75ffa') in 0.007536 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.711379 seconds.
+  path: Assets/Resources/Animations/ScienceGuy/ScienceGuy_Jump.png
+  artifactKey: Guid(d828197a460a2f046bf74b88c1a57a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/ScienceGuy/ScienceGuy_Jump.png using Guid(d828197a460a2f046bf74b88c1a57a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bf3241c65cb6cdc5fd736de301907bb') in 0.026826 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.707683 seconds.
+  path: Assets/Resources/Animations/ScienceGuy/ScienceGuy_Idle.png
+  artifactKey: Guid(b55723e06b3d0f84c800540268c73980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/ScienceGuy/ScienceGuy_Idle.png using Guid(b55723e06b3d0f84c800540268c73980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef988e250c2deb448e578b45cbd43e60') in 0.008964 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 49.514504 seconds.
+  path: Assets/Resources/Animations/ScienceGuy/ScienceGuy_Idle.png
+  artifactKey: Guid(b55723e06b3d0f84c800540268c73980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/ScienceGuy/ScienceGuy_Idle.png using Guid(b55723e06b3d0f84c800540268c73980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3f9f80dcbf34fe222cef77aa60e2880') in 0.031459 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1274.657236 seconds.
+  path: Assets/Resources/Animations/ScienceGuy/Run.anim
+  artifactKey: Guid(4005e1fdaf289e14cb8c1aaf41c7588e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/ScienceGuy/Run.anim using Guid(4005e1fdaf289e14cb8c1aaf41c7588e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60825ae506dfe661a6e7f3395cc20e50') in 0.022673 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.698448 seconds.
+  path: Assets/Resources/Animations/ScienceGuy/ScienceGuy_Run_0.controller
+  artifactKey: Guid(0c6cb5c53d2b97d489f3cc31c2ae98fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/ScienceGuy/ScienceGuy_Run_0.controller using Guid(0c6cb5c53d2b97d489f3cc31c2ae98fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd788e3eff136e6346aceddb7127c1c4a') in 0.007972 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 78.987165 seconds.
+  path: Assets/Resources/Animations/ScienceGuy/ScienceGuy_Idle_0.controller
+  artifactKey: Guid(f49d9ecf3c73ef14498f9a83bbb0f171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/ScienceGuy/ScienceGuy_Idle_0.controller using Guid(f49d9ecf3c73ef14498f9a83bbb0f171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '179dfc70ba171dbcdd50c65ad6492923') in 0.002830 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.804816 seconds.
+  path: Assets/Resources/Animations/ScienceGuy/ScienceGuy.controller
+  artifactKey: Guid(f49d9ecf3c73ef14498f9a83bbb0f171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/ScienceGuy/ScienceGuy.controller using Guid(f49d9ecf3c73ef14498f9a83bbb0f171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d154b88933d0e16282560fc59423954') in 0.004188 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 447.507640 seconds.
+  path: Assets/Resources/Animations/ScienceGuy/ScienceGuy_Run.png
+  artifactKey: Guid(8fe3c6cbbd03a694dadccbd7c48cce30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/ScienceGuy/ScienceGuy_Run.png using Guid(8fe3c6cbbd03a694dadccbd7c48cce30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb6e07ec3ea45c765a8ba0308c474aad') in 0.047387 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.722585 seconds.
+  path: Assets/Resources/Animations/ScienceGuy/ScienceGuy_Run.png
+  artifactKey: Guid(8fe3c6cbbd03a694dadccbd7c48cce30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/ScienceGuy/ScienceGuy_Run.png using Guid(8fe3c6cbbd03a694dadccbd7c48cce30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ec452baaeac6a544b48a71b85b1a166') in 0.048269 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.470433 seconds.
+  path: Assets/Resources/Animations/ScienceGuy/ScienceGuy_Run.png
+  artifactKey: Guid(8fe3c6cbbd03a694dadccbd7c48cce30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/ScienceGuy/ScienceGuy_Run.png using Guid(8fe3c6cbbd03a694dadccbd7c48cce30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6c6c4912a639bd92af9e4dc4da446e9') in 0.039733 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.420294 seconds.
+  path: Assets/Resources/Animations/ScienceGuy/ScienceGuy_Run.png
+  artifactKey: Guid(8fe3c6cbbd03a694dadccbd7c48cce30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/ScienceGuy/ScienceGuy_Run.png using Guid(8fe3c6cbbd03a694dadccbd7c48cce30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c90853671c8b2ef9f90f6420e32e601') in 0.040421 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 31.563870 seconds.
+  path: Assets/Resources/Animations/ScienceGuy/ScienceGuy_Idle.png
+  artifactKey: Guid(b55723e06b3d0f84c800540268c73980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/ScienceGuy/ScienceGuy_Idle.png using Guid(b55723e06b3d0f84c800540268c73980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56bcf6676daffbbcffcbb8cfbc7214e5') in 0.032317 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001049 seconds.
+  path: Assets/Resources/Animations/ScienceGuy/ScienceGuy_Jump.png
+  artifactKey: Guid(d828197a460a2f046bf74b88c1a57a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/ScienceGuy/ScienceGuy_Jump.png using Guid(d828197a460a2f046bf74b88c1a57a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cca4141c3d61dc1b2d1bafa41932766') in 0.031908 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
